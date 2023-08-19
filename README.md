@@ -1,7 +1,7 @@
 ## Hey, nice to meet you! 👩🏽‍💻 🚀
 <p>
 Welcome to my page! 
-I'm Camila, Frontend developer from 🇦🇷 
+I'm Camila, Fullstack developer from 🇦🇷 
   
 ### Languages and Tools 🛠️ :
 <p>
