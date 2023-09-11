@@ -1,9 +1,9 @@
-## Hey, nice to meet you! 👩🏽‍💻 🚀
+## Bienvenido a mi repo! 👩🏽‍💻 🚀
 <p>
-Welcome to my page! 
-I'm Camila, Fullstack developer from 🇦🇷 
+
+Soy Desarrolladora FullStack, me gusta mas Backend 🇦🇷 
   
-### Languages and Tools 🛠️ :
+### Lenguajes y herramientas 🛠️ :
 <p>
   <img alt"JavaScript" src="https://img.shields.io/badge/JavaScript-orange"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -32,9 +32,6 @@ I'm Camila, Fullstack developer from 🇦🇷
 <p>
 </div>
 
-
-As an impassioned application developer, I'm always working on turning my ideas into concepts.
-I like to work with the newest technologies based on application development and to use these technologies on my projects.
 
 
 
