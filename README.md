@@ -1,4 +1,4 @@
-## Bienvenido a mi repo! 👩🏽‍💻 🚀
+## Bienvenida/o a mi repo! 👩🏽‍💻 🚀
 <p>
 
 Soy Desarrolladora FullStack, me gusta mas Backend 🇦🇷 
