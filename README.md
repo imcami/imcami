@@ -1,7 +1,7 @@
 ## Bienvenida/o a mi repo! 👩🏽‍💻 🚀
 <p>
 
-Soy Desarrolladora FullStack, me gusta mas Backend 🇦🇷 
+Soy Desarrolladora FullStack, me gusta mas desarrollar en el Backend 🇦🇷 
   
 ### Lenguajes y herramientas 🛠️ :
 <p>
