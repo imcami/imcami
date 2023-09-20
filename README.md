@@ -22,7 +22,7 @@ Soy Desarrolladora FullStack, me gusta mas desarrollar en el Backend 🇦🇷
  ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?lonerocamila=username&show_icons=true&theme=dracula)
 
 </div>
- ![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?lonerocamila=voyager19878"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?lonerocamila=voyager19878"/>
  <div align="center">
   <p>
     
