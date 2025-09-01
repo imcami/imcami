@@ -16,7 +16,7 @@ Estudiante de Ingeniería en Inteligencia Artificial, apasionada por los negocio
 </p>
 <div align="center">
   
- ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcami&show_icons=true&theme=dracula)
+ ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcami&show_icons=true,python&theme=dracula)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcami"/>
